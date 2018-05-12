@@ -1,0 +1,39 @@
+_repo: Domitia_43985
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Chandler, Izora C.
+    gutenberg_agent_id: '44242'
+    url: http://www.gutenberg.org/2009/agents/44242
+covers:
+- cover_type: archival
+  image_path: 43985-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Baring-Gould, S. (Sabine)
+    aliases:
+    - Baring-Gould, Sabine
+    - Gould, Sabine Baring
+    - Gould, S. Baring
+    birthdate: 1834
+    deathdate: 1924
+    gutenberg_agent_id: '1766'
+    url: http://www.gutenberg.org/2009/agents/1766
+    wikipedia: http://en.wikipedia.org/wiki/Sabine_Baring-Gould
+description: ''
+gutenberg_issued: '2013-10-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43985'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rome -- History -- Domitian, 81-96 -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Rome -- History -- Nero, 54-68 -- Fiction'
+- !lcsh 'Domitia Longina, Empress, consort of Domitian, Emperor of Rome, approximately
+  54-approximately 128 -- Fiction'
+title: Domitia
+url: http://www.gutenberg.org/ebooks/43985
